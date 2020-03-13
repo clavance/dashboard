@@ -1,9 +1,9 @@
 ## Dashboard
-This is a web dashboard application with a React front-end and an Express back-end.
-It is connected to Monzo, Google Maps as well as Calendar and Weather APIs.
-The application pulls data from a user's Monzo account using Monzo's API. Due to Monzo's strong customer authentication, it requires the user to approve access to the application via both email and the Monzo phone app.
-Strong authentication also results in transaction permissions expiring after 5 minutes, so on a successful login the application saves all the user's transactions into a JSON file which is then read and rendered by the relevant React component.
-The application loads a map via Google Maps' API with a marker indicating the location of the most recent transaction.
+This is a web dashboard application with a React front-end and an Express back-end.  
+It is connected to Monzo, Google Maps as well as Calendar and Weather APIs.  
+The application pulls data from a user's Monzo account using Monzo's API. Due to Monzo's strong customer authentication, it requires the user to approve access to the application via both email and the Monzo phone app.  
+Strong authentication also results in transaction permissions expiring after 5 minutes, so on a successful login the application saves all the user's transactions into a JSON file which is then read and rendered by the relevant React component.  
+The application loads a map via Google Maps' API with a marker indicating the location of the most recent transaction.  
 Click [here](https://github.com/clavance/dashboard/blob/master/dashboard.gif) for a demo.
 
 ## Instructions
