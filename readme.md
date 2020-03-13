@@ -12,7 +12,7 @@ The application loads a map via Google Maps' API with a marker indicating the lo
 
 ## Instructions
 1. The application requires a working Monzo account and a Google Maps API key.
-2. Log in to the [Monzo Developer Portal](https://developers.monzo.com/api), approve access via email and the app.
+2. Log in to the [Monzo Developer Portal](https://developers.monzo.com/api), approve access via email and the Monzo phone app.
 3. Navigate to Clients and add a New OAuth Client.
 4. Add the relevant Redirect URI.
 5. Note the Client ID and Client Secret, these should not be disclosed to anyone.
