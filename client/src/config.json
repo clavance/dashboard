@@ -1,0 +1,10 @@
+{
+  "client_id": "",
+  "client_secret": "",
+  "redirect_uri": "",
+  "response_type": "code",
+  "state_token": "",
+  "grant_type": "authorization_code",
+  "account_type": "uk_retail",
+  "google_api_key": ""
+}
