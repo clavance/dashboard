@@ -8,7 +8,7 @@ Strong authentication also results in transaction permissions expiring after 5 m
 
 The application loads a map via Google Maps' API with a marker indicating the location of the most recent transaction. It displays the user's name, balances, amount spent on the present day, and most recent transactions. The user can also view the entire log of all their transactions.   
 
-Click [here](https://github.com/clavance/dashboard/blob/master/dashboard.gif?raw=true) for a demo.
+![](dashboard.gif)
 
 ## Instructions
 1. The application requires a working Monzo account and a Google Maps API key.
