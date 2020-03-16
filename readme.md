@@ -20,7 +20,7 @@ The application loads a map via Google Maps' API with a marker indicating the lo
 6. Amend the file `/client/src/config.json` with the required information.
 7. `git clone` this repo
 
-**Steps to run server**:
+**Steps to run server (development)**:
 1. `cd server`
 2. `npm i`
 3. `npm start`, server runs on port 3001
