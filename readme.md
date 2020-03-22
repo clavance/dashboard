@@ -29,3 +29,7 @@ The application loads a map via Google Maps' API with a marker indicating the lo
 1. `cd client`
 2. `npm i`
 3. `npm start`, client runs on port 3000
+
+## To do
+- nginx for routing
+- React testing
